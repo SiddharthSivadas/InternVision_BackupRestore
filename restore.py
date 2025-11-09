@@ -1,7 +1,7 @@
 import os
 import shutil
 
-print("🔵 Checking for backups...")
+print(" Checking for backups...")
 
 backup_folder = 'backups'
 
